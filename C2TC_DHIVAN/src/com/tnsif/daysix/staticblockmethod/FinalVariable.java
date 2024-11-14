@@ -4,13 +4,13 @@ public class FinalVariable {
 
 	
 
-	final int x = 100;
+	 int x = 100;
 
 	
-	final static int Y;
+	 static int Y;
 
 	
-	final static int Z = 10;
+	 static int Z = 10;
 
 	
 	void change() {
